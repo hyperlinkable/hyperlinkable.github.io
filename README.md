@@ -8,9 +8,10 @@
 
 _Project portfolio for intro to programming class._
 
+<!--
 ## Setup/Installation Requirements
 
-[comment]: <> (
+
 * _This is a great place_
 * _to list setup instructions_
 * _in a simple_
@@ -18,13 +19,12 @@ _Project portfolio for intro to programming class._
 * _format_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-)
+
 
 ## Known Bugs
 
-[comment]: <> (
 _{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-)
+-->
 
 ## Support and contact details
 
