@@ -8,6 +8,8 @@
 
 _Project portfolio for intro to programming class._
 
+_Please visit project page at [hyperlinkable.github.io](http://hyperlinkable.github.io)_
+
 <!--
 ## Setup/Installation Requirements
 
