@@ -1,3 +1,7 @@
 .imageoverlay {
   background: url(http://lorempixel.com/g/1300/394/) no-repeat center center fixed;
 }
+
+.jumbo {
+  background-color: purple;
+}
